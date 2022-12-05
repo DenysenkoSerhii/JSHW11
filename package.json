@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://denysenkoserhii.github.io/JSHW10/",
+  "homepage": "https://denysenkoserhii.github.io/JSHW11/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /JSHW10/"
+    "build": "parcel build src/*.html --public-url /JSHW11/"
   },
   "repository": {
     "type": "git",
